@@ -15,12 +15,8 @@
 Sonic Labs ( Prev Fantom )
 
 - Get Faucet : https://testnet.soniclabs.com/account
-- Register : [https://airdrop.soniclabs.com/?ref=4K0I6S](https://sightai.io/dashboard?referral-code=4K0I6S)
+- Register : [https://airdrop.soniclabs.com/]
 - Connect Wallet to Sonic Testnet
-- Enter Access Code 
-```
-qos4k8
-```
 - Click "Sonic Arcade" And Get You Token By Clickig on `Get some $TOKEN >`
 - Connect Your Twitter > Follow Twitter > Complete Captcha > Get Token (REMEMBER TO CLAIM FAUCET WEEKLY)
 - After You Get Your Token, Play All Game at Least Once
@@ -41,7 +37,7 @@ qos4k8
 ### Linux
 1. clone project repo
    ```
-   git clone https://github.com/vinskasenda/soniclabsbot.git && cd soniclabsbot
+   git clone https://github.com/0xWinNode/SONICLABS-BOT.git && cd SONICLABS-BOT
    ```
 2. run
    ```
@@ -72,7 +68,7 @@ qos4k8
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/Widiskel/soniclabs-arcade-bot.git
+   git clone https://github.com/0xWinNode/SONICLABS-BOT.git
    ```
    and cd to project dir
    ```
